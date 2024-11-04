@@ -34,8 +34,6 @@ Each notebook covers:
 ## Results
 1.Accuracy and loss curves for each model
 
-2.Confusion matrices for model performance across terrain classes
-
-3.Comparative analysis and comparative graph
+2.Comparative analysis and comparative graph
 ## Conclusion
 The study highlights the strengths and limitations of InceptionV3, ResNet50, and VGG16 in terrain recognition, showcasing the potential of transfer learning in environmental image classification.
